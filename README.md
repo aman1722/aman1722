@@ -18,7 +18,7 @@ Hello stranger! My name is Aman Kashyap and I am a Full Stack Node Developer, pa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman1722&label=Profile%20views&color=0e75b6&style=flat" alt="aman1722" /> </p>
 <img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently pursuing **Full Stack Node Development**
+- 🔭 I’m currently pursuing **Full Stack Web Development**
 
 -    Checkout my **[Resume](https://drive.google.com/file/d/1yjiyPmjUV1lOxoANVpgM8KEwE_IepEiJ/view?usp=sharing)**
 
@@ -28,7 +28,7 @@ Hello stranger! My name is Aman Kashyap and I am a Full Stack Node Developer, pa
 
 - 📫 Reach me on **aman1722kashyap@gmail.com**
 
-- 💬 ask me about anything, i am happy to help
+- 💬 ask me about anything, I would be happy to help
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
