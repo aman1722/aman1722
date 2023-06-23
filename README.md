@@ -39,7 +39,7 @@ Hello stranger! My name is Aman Kashyap and I am a Full Stack Web Developer, pas
 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aman.kashyap_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kashyap-221754244/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmanKashyap2217) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aman_1722/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aman1722.github.io/)
 
-<h2 align="left">⚡ Tech Stack</h2>
+<h2 align="left">⚡Tech Stack</h2>
 <table align="center">
   <tbody>
     <tr valign="top">
