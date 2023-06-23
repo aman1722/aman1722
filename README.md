@@ -1,11 +1,11 @@
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Aman Kashyap 💻! Glad to see you here!
 </h2>
-<h3 align="center">An aspiring Full Stack Web Developer with skills in Node js Backend Devlopment.</h3>
+<h3 align="center">An aspiring Full Stack Web Developer with skills in Node.js Backend Development.</h3>
 
 <hr>
 
-Hello stranger! My name is Aman Kashyap and I am a Full Stack Web Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with NODE stack and programming languages like JavaScript for web development as well as Backend Developer. Looking forward to some interesting and challenging opportunities.
+Hello stranger! My name is Aman Kashyap and I am a Full Stack Web Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned. Working with NODE stack and programming languages like JavaScript for web development as well as Backend Developer. Looking forward to some interesting and challenging opportunities.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
