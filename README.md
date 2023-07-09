@@ -248,8 +248,8 @@ Hello stranger! My name is Aman Kashyap and I am a Full Stack Web Developer, pas
 <!-- github status  -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman1722" alt="aman kashyap" /></a> </p>
 <div align="center" style="display: flex; gap:50px">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aman1722&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+<!-- https://github-readme-stats.vercel.app/api?&hide=stars,issues&theme=radical&include_all_commits=true&cache_seconds=1800&custom_title=Your%20GitHub%20Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=aman1722&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show_icons=true" style="width: 40%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1722&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
