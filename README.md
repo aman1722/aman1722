@@ -261,7 +261,7 @@ Hello stranger! My name is Aman Kashyap and I am a Full Stack Web Developer, pas
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Aman Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aman1722&theme=react-dark" /></a>
+  <a><img alt="Aman Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aman1722&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true" /></a>
 
 <br> 
 <div align="center">
